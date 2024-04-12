@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fortnine/static/css/main.a1cca424.css",
+    "main.js": "/fortnine/static/js/main.d7ceaaae.js",
+    "index.html": "/fortnine/index.html",
+    "main.a1cca424.css.map": "/fortnine/static/css/main.a1cca424.css.map",
+    "main.d7ceaaae.js.map": "/fortnine/static/js/main.d7ceaaae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1cca424.css",
+    "static/js/main.d7ceaaae.js"
+  ]
+}
